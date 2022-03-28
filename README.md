@@ -1,6 +1,5 @@
 ### Hi there 👋
-##### 💬 How to reach me: hello@chisomjude.net
-
+##### 💬 How to reach me: chisomjude0205@gmail.com
 <!--
 **ChisomJude/chisomjude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
