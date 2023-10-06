@@ -14,24 +14,18 @@ I am Chisom Jude. I have over 3 years of hands-on experience i in the world of D
 <a target="_blank"href="https://www.linkedin.com/in/chisomjude/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/_chisomjude"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:chisomjude0205@gmail.com?subject=Hello%20Chisom,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-</p>
-
-<hr>
-
-
-<h3  align="center">💻 Check Out My Blog ➡️ </h3> 
-<p align="center">
 <a href="https://hashnode.com/@chisomjude"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 
 <hr>
 
-### My Tech Stack
+<h3  align="center">  My Tech Stack </h3>
+
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/python-%23777BB4.svg?style=for-the-badge&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/python-%230072C6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
@@ -45,13 +39,8 @@ I am Chisom Jude. I have over 3 years of hands-on experience i in the world of D
 ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![KIBANA](https://img.shields.io/badge/-kibana-005571?style=for-the-badge&logo=kibana)
 
-<hr>
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chisomjude&theme=ayu_mirage)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chisomjude&theme=ayu_mirage)
-
-<hr>
 
 <h3  align="center">💻 Check Out My Repos ⬇️ </h3>
 
@@ -68,4 +57,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<hr>
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chisomjude&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chisomjude&theme=ayu_mirage)
+
+<hr>
+
 -->
