@@ -2,7 +2,7 @@
 
 ![bannerimage](https://github.com/ChisomJude/chisomjude/blob/main/ChisomJudee.gif)
 <div align='center'><p>
-I am Chisom Jude. I have over 3 years of hands-on experience i in the world of DevOps, SRE, and Application Support. One of my strong suits is documenting solutions. I firmly believe that knowledge sharing is key to our collective growth, and I take pride in creating clear and accessible documentation to help teams and individuals overcome challenges more efficiently</p>
+I am Chisom Jude. I have over 4 years of hands-on experience in the world of DevOps, SRE, and Application Support. One of my strong suits is documenting solutions. I firmly believe that knowledge sharing is key to our collective growth, and I take pride in creating clear and accessible documentation to help teams and individuals overcome challenges more efficiently.  </p>
 
    <img src="https://komarev.com/ghpvc/?username=chisomjude" alt="https://github.com/chisomjude"/>
 </div>
@@ -19,8 +19,10 @@ I am Chisom Jude. I have over 3 years of hands-on experience i in the world of D
 
 <hr>
 
-<h3  align="center">  My Tech Stack </h3>
+<h3 align="center">  My Tech Stack </h3>
 
+<div align="center">
+   
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
@@ -41,6 +43,7 @@ I am Chisom Jude. I have over 3 years of hands-on experience i in the world of D
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![KIBANA](https://img.shields.io/badge/-kibana-005571?style=for-the-badge&logo=kibana)
 
+</div>
 
 <h3  align="center">💻 Check Out My Repos ⬇️ </h3>
 
