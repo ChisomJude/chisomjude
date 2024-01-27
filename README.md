@@ -13,7 +13,7 @@ I am Chisom Jude. I have over 4 years of hands-on experience in the world of Dev
 <p align="center">
 <a target="_blank"href="https://www.linkedin.com/in/chisomjude/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a target="_blank"href="https://twitter.com/_chisomjude"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:chisomjude0205@gmail.com?subject=Hello%20Chisom,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:hello@chisomjude.net?subject=Hello%20Chisom,%20From%20Github"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 <a href="https://hashnode.com/@chisomjude"><img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white"/></a>
 </p>
 
