@@ -46,6 +46,8 @@ I am Chisom Jude. I have over 4 years of hands-on experience in the world of Dev
 
 <h3  align="center">💻 Check Out My Repos ⬇️ </h3>
 
+
+
 <!--
 **ChisomJude/chisomjude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -60,6 +62,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <hr>
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=chisomjude&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=00000000&hide_title=true&hide_border=true" />
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=chisomjude&theme=ayu_mirage)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=chisomjude&theme=ayu_mirage)
