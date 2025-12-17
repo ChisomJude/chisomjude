@@ -2,7 +2,7 @@
 
 ![bannerimage](https://github.com/ChisomJude/chisomjude/blob/main/ChisomJudee.gif)
 <div align='center'><p>
-I am Chisom Jude. I have over 5 years of hands-on experience in the world of DevOps, SRE, and Application Support. One of my strong suits is documenting solutions. I firmly believe that knowledge sharing is key to our collective growth, and I take pride in creating clear and accessible documentation to help teams and individuals overcome challenges more efficiently.  </p>
+I am Chisom Jude. I have over 6 years of hands-on experience in the world of DevOps, SRE, and Application Technical Support. One of my strong suits is documenting solutions. I firmly believe that knowledge sharing is key to our collective growth, and I take pride in creating clear and accessible documentation to help teams and individuals overcome challenges more efficiently.  </p>
 
    <img src="https://komarev.com/ghpvc/?username=chisomjude" alt="https://github.com/chisomjude"/>
 </div>
